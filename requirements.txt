@@ -5,4 +5,4 @@ streamlit_webrtc
 av
 mediapipe==0.10.13
 tensorflow==2.14.0
-
+Flask==2.0.1
