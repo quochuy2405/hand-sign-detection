@@ -4,5 +4,5 @@ numpy==1.26.4
 streamlit-webrtc
 av
 mediapipe==0.10.13
-tensorflow==2.11.0  # or tensorflow==2.10.0
+tensorflow==2.10.0  # Or tensorflow==2.12.0 or tensorflow==2.13.0
 Flask==2.0.1
