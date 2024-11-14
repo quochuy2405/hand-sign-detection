@@ -1,0 +1,13 @@
+0 chung_toi
+1 cong_bang
+2 den_truong
+3 di
+4 doi_xu
+5 duoc
+6 giao_tiep
+7 hoa_nhap
+8 hoc
+9 moi_nguoi
+10 muon
+11 toi
+12 xung_quanh
