@@ -1,8 +1,8 @@
-opencv-python-headless 
+opencv-python-headless
 streamlit==1.35.0
 numpy==1.26.4
 streamlit-webrtc
 av
 mediapipe==0.10.13
-tensorflow==2.14.0
+tensorflow==2.11.0  # or tensorflow==2.10.0
 Flask==2.0.1
